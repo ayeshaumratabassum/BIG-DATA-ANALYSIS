@@ -57,3 +57,7 @@ Big Data Analytics is widely used in industries such as entertainment, healthcar
 *CONCLUSION*
 
 This project successfully demonstrated Big Data Analysis using PySpark on the Netflix dataset. Google Colab provided a convenient cloud-based platform, while PySpark enabled efficient data processing and analysis. Through various analytical techniques and visualizations, meaningful insights were extracted from the dataset. This project provided practical exposure to big data technologies and enhanced understanding of real-world data analytics workflows, making it a valuable learning experience for future data-driven applications.
+
+## OUTPUT
+
+<img width="922" height="674" alt="Image" src="https://github.com/user-attachments/assets/2a5101c4-e48a-4767-aa01-a3c71187af3f" />
